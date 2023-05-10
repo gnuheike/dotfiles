@@ -3,5 +3,6 @@
 # Displays total percentage charge left of specified battery.
 # You can specify the instance by adding:
 # instance=BAT0
-[battery]
+[battery2]
 interval=10
+command=~/.config/regolith2/i3xrocks/battery2

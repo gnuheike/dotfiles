@@ -1,0 +1,3 @@
+for_window [class="Nautilus"] floating enable, resize set 1000 800, move position center
+for_window [class="FileRoller"] floating enable
+
